@@ -1,7 +1,7 @@
 <strong>Hi, I am Tamara 👋 </strong> <br>
-📍 I’m currently learning JavaScript and React with Czechitas.<br>
-👩‍ Management student aiming to work in front-end development.
-
+👩🏼‍🎓 Management student interested in front-end development & UX.<br>
+⚡️ Learning JavaScript and React.<br>
+👀 Looking for an opportunity where my skills can grow.
 
 
 
